@@ -34,7 +34,7 @@ namespace ArraysAndLists
             Console.WriteLine("Even numbers:");
             foreach (int even  in evens)
             {
-                Console.WriteLine($"Even: {evens}");
+                Console.WriteLine($"Even: {even}");
             }
 
             Console.WriteLine("Odd numbers:");
